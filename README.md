@@ -6,8 +6,8 @@
 ######	4，系统消息页面处理，接收展示系统消息。	
 
 ！[public](/public/img/github/1.png)
-！[public](/public/img/github/2.png)
+<!-- ！[public](/public/img/github/2.png)
 ！[public](/public/img/github/3.png)
 ！[public](/public/img/github/4.png)
 ！[public](/public/img/github/5.png)
-！[public](/public/img/github/6.png)
+！[public](/public/img/github/6.png) -->
