@@ -5,9 +5,9 @@
 ######  3，私信功能处理，接收私信消息，实现私信聊天界面，可发送消息、清空聊天；
 ######	4，系统消息页面处理，接收展示系统消息。	
 
-！[]('./public/img/github/1.png')
-！[]('./public/img/github/2.png')
-！[]('./public/img/github/3.png')
-！[]('./public/img/github/4.png')
-！[]('./public/img/github/5.png')
-！[]('./public/img/github/6.png')
+！[](./public/img/github/1.png)
+！[](./public/img/github/2.png)
+！[](./public/img/github/3.png)
+！[](./public/img/github/4.png)
+！[](./public/img/github/5.png)
+！[](./public/img/github/6.png)
